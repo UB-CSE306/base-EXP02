@@ -1,5 +1,5 @@
 # EXP02: Exploratory Project 02
-Due on Monday April 20, no later than 5:00 PM
+Due on Monday April 19, no later than 5:00 PM
 
 ## Overview
 
@@ -13,7 +13,15 @@ You do NOT need to push those large image files back to your GitHub repo.
 
 ## Advice
 
-Use git, branches, frequent commits, and commit comments to document what your process is.  For example, when tracking down a bug you are expected to create a bugfix branch (and document the bug you're fixing in the commit comment), write tests that reveal the bug on that branch, implement a fix on that branch, and once the tests pass, merge back into the main branch.
+Remember that completing the coding is NOT the primary focus of any exercise in this course, rather it is providing evidence of having used the tools and processes we've discussed. 
+
+Use git, branches, frequent commits, and commit comments to document what your process is.  Use a ZenHub workspace, linked to your GitHub repo, to demonstrate how each member of your team is involved in this project.
+
+Make sure each team member makes frequent enough commits, with detailed enough commit comments, so that when grading happens we can clearly see that for a given bit of functionality blackbox tests were written before any implementation, then an implementation was build, then gcov was used to determine code coverage, and the whitebox tests were written to achieve 100% code coverage.  If some member of your team is not engaging or contributing to the project you must document this via the tools you have.  For example, early on in the process the team should meet to do an initial task breakdown of the project (which of course can be refined as the project progresses).  One collaboration model is to have each team member pick a task and document it as theirs.  Once a team member has completed a task they pick another task.  This way no one team member hoards tasks, and the productive team members document that they are progressing through tasks.  Communication isn key to successful teamwork - let the team know abou ts (e.g. a midterm comign up).your constrainstBe sensitive
+
+When tracking down a bug you are expected to create a bugfix branch (and document the bug you're fixing in the commit comment), write tests that reveal the bug on that branch, implement a fix on that branch, and once the tests pass, add whitebox testing to get up to 100% code coverage again, and then merge back into the main branch.
+
+
 
 
 ## Scenario
