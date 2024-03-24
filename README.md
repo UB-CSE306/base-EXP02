@@ -1,5 +1,5 @@
 # EXP02: Exploratory Project 02
-Due on Friday April 21, no later than 5:00 PM
+Due on Friday April 13, no later than 5:00 PM
 
 ## Overview
 
