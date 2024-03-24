@@ -15,9 +15,7 @@ You do NOT need to push those large image files back to your GitHub repo.
 
 Remember that completing the coding is NOT the primary focus of any exercise in this course, rather it is providing evidence of having used the tools and processes we've discussed. 
 
-Use git, branches, frequent commits, and commit comments to document what your process is.  Use a ZenHub workspace, linked to your GitHub repo, to demonstrate how each member of your team is involved in this project.
-
-**NOTE:** _Use **GitHub** issues, NOT ZenHub issues!!!_
+Use git, branches, frequent commits, and commit comments to document what your process is.  Use a Trello workspace/board, linked to your GitHub repo, to demonstrate how each member of your team is involved in this project.
 
 When tracking down a bug you are expected to create a bugfix branch (and document the bug you're fixing in the commit comment), write tests that reveal the bug on that branch, implement a fix on that branch, and once the tests pass, add transparent testing to get up to 100% code coverage again, and then merge back into the main branch.  Apply the lessons learned, and use all the tools covered so far!
 
