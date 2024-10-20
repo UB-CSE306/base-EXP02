@@ -9,7 +9,7 @@ In this project you will work with code from an open source project.  _**Remembe
 
 Remember that _**completing the coding is NOT the primary focus**_ of any exercise in this course, rather it is providing evidence of having used the tools and processes we've discussed. 
 
-Use git, branches, frequent commits, and commit comments to document what your process is.  Use a Trello workspace/board, linked to your GitHub repo, to demonstrate how each member of your team is involved in this project.
+Use git, branches, frequent commits, and commit comments to document what your process is.  Use your team's Kanban board in conjunction with your team's GitHub repo, to demonstrate how each member of your team is involved in this project.
 
 When tracking down a bug you are expected to create a bugfix branch (and document the bug you're fixing in the commit comment), write tests that reveal the bug on that branch, implement a fix on that branch, and once the tests pass, add transparent testing to get up to 100% code coverage again, and then merge back into the main branch.  Apply the lessons learned, and use all the tools covered so far!
 
